@@ -1,0 +1,5 @@
+Feature Request: enter triggers search
+
+Implemented in ./Components/SearchBar.js
+
+https://docs.google.com/document/d/1kR9DSwrGK20JfKliLy9bpnCH7cQf6Z8lKOQDOVj2Exg/edit?usp=sharing
